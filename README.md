@@ -4,6 +4,9 @@
 
 ###  Live At :- [view](https://shekhutsav1962001.github.io/BlogIt-Frontend)
 
+### Running Video :- [view](https://www.linkedin.com/posts/utsavshekh_mernstack-markdown-blog-activity-6805202292489416704-LfrI/)
+
+
 >How to run ?
 ```
 $ git clone https://github.com/shekhutsav1962001/BlogIt-Backend.git
